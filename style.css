@@ -5,7 +5,7 @@
     display: inline-flex;
     flex-direction: column;
     line-height: 1.5;
-    background: url("./registration_background.jpg");
+    background: url("registration_background.jpg");
     background-size: 100%;
     color: gold;
     box-shadow: 1px 1px 2px rgb(210, 170, 170);
@@ -19,7 +19,7 @@ body{margin: 0;
     text-align: center;
     padding: 4%;
     padding-top: 2%;
-    background: url("./reg_back1.jpg");
+    background: url("reg_back1.jpg");
     background-size: 100%;
 }
 button{
